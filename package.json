@@ -87,7 +87,7 @@
 		"electron-log": "4.2.0",
 		"electron-unhandled": "3.0.2",
 		"electron-updater": "4.3.1",
-		"electron-util": "0.14.1",
+		"electron-util": "0.14.2",
 		"sirv-cli": "0.4.5"
 	},
 	"build": {
